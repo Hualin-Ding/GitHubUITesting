@@ -1,0 +1,8 @@
+<suite name="githubTest">
+	
+ <test name="test">
+ <classes>
+  	 <class name="UITests.TestCloneButtonURL" />
+ </classes>
+ </test>  
+ </suite>
